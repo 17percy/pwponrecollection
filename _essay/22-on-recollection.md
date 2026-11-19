@@ -1,65 +1,77 @@
 ---
 title: On Recollection.
 order: 23
-byline: Percy
+byline: Percy Gerard
 ---
+## Critical Introduction to "On Recollection"
+This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+
 ## ON RECOLLECTION.
 
 <pre>
-MNEME begin.  Inspire, ye sacred nine,
-  Your vent’rous Afric in her great design.
-  Mneme, immortal pow’r, I trace thy spring:
-  Assist my strains, while I thy glories sing:
-  The acts of long departed years, by thee
-  Recover’d, in due order rang’d we see:
-  Thy pow’r the long-forgotten calls from night,
-  That sweetly plays before the fancy’s sight.
-  Mneme in our nocturnal visions pours
-  The ample treasure of her secret stores;
-  Swift from above the wings her silent flight
-  Through Phoebe’s realms, fair regent of the night;
-  And, in her pomp of images display’d,
-  To the high-raptur’d poet gives her aid,
-  Through the unbounded regions of the mind,
-  Diffusing light celestial and refin’d.
-  The heav’nly phantom paints the actions done
-  By ev’ry tribe beneath the rolling sun.
-    Mneme, enthron’d within the human breast,
-  Has vice condemn’d, and ev’ry virtue blest.
-  How sweet the sound when we her plaudit hear?
-  Sweeter than music to the ravish’d ear,
-  Sweeter than Maro’s entertaining strains
-  Resounding through the groves, and hills, and plains.
-  But how is Mneme dreaded by the race,
-  Who scorn her warnings and despise her grace?
-  By her unveil’d each horrid crime appears,
-  Her awful hand a cup of wormwood bears.
-  Days, years mispent, O what a hell of woe!
-  Hers the worst tortures that our souls can know.
-    Now eighteen years their destin’d course have run,
-  In fast succession round the central sun.
-  How did the follies of that period pass
-  Unnotic’d, but behold them writ in brass!
-  In Recollection see them fresh return,
-  And sure ’tis mine to be asham’d, and mourn.
-    O Virtue, smiling in immortal green,
-  Do thou exert thy pow’r, and change the scene;
-  Be thine employ to guide my future days,
-  And mine to pay the tribute of my praise.
-    Of Recollection such the pow’r enthron’d
-  In ev’ry breast, and thus her pow’r is own’d.
-  The wretch, who dar’d the vengeance of the skies,
-  At last awakes in horror and surprise,
-  By her alarm’d, he sees impending fate,
-  He howls in anguish, and repents too late.
-  But O! what peace, what joys are hers t’ impart
-  To ev’ry holy, ev’ry upright heart!
-  Thrice blest the man, who, in her sacred shrine,
-  Feels himself shelter’d from the wrath divine!
+MNEME begin. Inspire, ye sacred nine,
+<br>Your vent'rous _Afric_ in her great design.
+<br>_Mneme_, immortal pow'r, I trace thy spring:
+<br>Assist my strains, while I thy glories sing:
+<br>The acts of long departed years, by thee
+<br>Recover'd, in due order rang'd we see:
+<br>Thy pow'r the long-forgotten calls from night,
+<br>That sweetly plays before the _fancy's_ sight.
+
+<p>_Mneme_ in our nocturnal visions pours
+<br>The ample treasure of her secret stores;
+<br>Swift from above she wings her silent flight
+<br>Through _Phoebe's_ realms, fair regent of the night;
+<br>And, in her pomp of images display'd,
+<br>To the high-raptur'd poet gives her aid,
+<br>Through the unbounded regions of the mind,
+<br>Diffusing light celestial and refin'd.
+<br>The heav'nly _phantom_ paints the actions done
+<br>By ev'ry tribe beneath the rolling sun.</p>
+
+<p>_Mneme_, enthron'd within the human breast,
+<br>Has vice condemn'd, and ev'ry virtue blest.
+<br>How sweet the sound when we her plaudit hear?
+<br>Sweeter than music to the ravish'd ear,
+<br>Sweeter than _Maro's_ entertaining strains
+<br>Resounding through the groves, and hills, and plains.
+<br>But how is _Mneme_ dreaded by the race,
+<br>Who scorns her warnings and despise her grace?
+<br>By her unveil'd each horrid crime appears,
+<br>Her awful hand a cup of wormwood bears.
+<br>Days, years mispent, O what a hell of woe!
+<br>Hers the worst tortures that our souls can know.</p>
+
+<p>Now eighteen years their destin'd course have run,
+<br>In fast succession round the central sun.
+<br>How did the follies of that period pass
+<br>Unnotic'd, but behold them writ in brass!
+<br>In Recollection see them fresh return,
+<br>And sure 'tis mine to be asham'd, and mourn.</p>
+
+<p>O _Virtue_, smiling in immortal green,
+<br>Do thou exert thy pow'r, and change the scene;
+<br>Be thine employ to guide my future days,
+<br>And mine to pay the tribute of my praise.</p>
+
+<p>Of _Recollection_ such the pow'r enthron'd
+<br>In ev'ry breast, and thus her pow'r is own'd.
+<br>The wretch, who dar'd the vengeance of the skies,
+<br>At last awakes in horror and surprize,
+<br>By her alarm'd, he sees impending fate,
+<br>He howls in anguish, and repents too late.
+<br>But O! what peace, what joys are hers t'impart
+<br>To ev'ry holy, ev'ry upright heart!
+<br>Thrice blest the man, who, in her sacred shrine,
+<br>Feels himself shelter'd from the wrath divine!</p>
 </pre>
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
+
+## Contextual Accompaniment to "To Maecenas"
+This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+
 ---
 
 ## Critical Introduction to "To Maecenas"
