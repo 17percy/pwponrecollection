@@ -4,21 +4,21 @@ order: 23
 byline: Percy Gerard
 ---
 ## Critical Introduction to "On Recollection"
-This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+test test
 
 ## ON RECOLLECTION.
 
 <pre>
-<p>MNEME begin. Inspire, ye sacred nine,
+<br>MNEME begin. Inspire, ye sacred nine,
 <br>Your vent'rous _Afric_ in her great design.
 <br>_Mneme_, immortal pow'r, I trace thy spring:
 <br>Assist my strains, while I thy glories sing:
 <br>The acts of long departed years, by thee
 <br>Recover'd, in due order rang'd we see:
 <br>Thy pow'r the long-forgotten calls from night,
-<br>That sweetly plays before the _fancy's_ sight.</p>
+<br>That sweetly plays before the _fancy's_ sight.
 
-<p>_Mneme_ in our nocturnal visions pours
+<br>_Mneme_ in our nocturnal visions pours
 <br>The ample treasure of her secret stores;
 <br>Swift from above she wings her silent flight
 <br>Through _Phoebe's_ realms, fair regent of the night;
@@ -27,9 +27,9 @@ This is the critical introduction. Your critical introduction should be construc
 <br>Through the unbounded regions of the mind,
 <br>Diffusing light celestial and refin'd.
 <br>The heav'nly _phantom_ paints the actions done
-<br>By ev'ry tribe beneath the rolling sun.</p>
+<br>By ev'ry tribe beneath the rolling sun.
 
-<p>_Mneme_, enthron'd within the human breast,
+<br>_Mneme_, enthron'd within the human breast,
 <br>Has vice condemn'd, and ev'ry virtue blest.
 <br>How sweet the sound when we her plaudit hear?
 <br>Sweeter than music to the ravish'd ear,
@@ -40,21 +40,21 @@ This is the critical introduction. Your critical introduction should be construc
 <br>By her unveil'd each horrid crime appears,
 <br>Her awful hand a cup of wormwood bears.
 <br>Days, years mispent, O what a hell of woe!
-<br>Hers the worst tortures that our souls can know.</p>
+<br>Hers the worst tortures that our souls can know.
 
-<p>Now eighteen years their destin'd course have run,
+<br>Now eighteen years their destin'd course have run,
 <br>In fast succession round the central sun.
 <br>How did the follies of that period pass
 <br>Unnotic'd, but behold them writ in brass!
 <br>In Recollection see them fresh return,
-<br>And sure 'tis mine to be asham'd, and mourn.</p>
+<br>And sure 'tis mine to be asham'd, and mourn.
 
-<p>O _Virtue_, smiling in immortal green,
+<br>O _Virtue_, smiling in immortal green,
 <br>Do thou exert thy pow'r, and change the scene;
 <br>Be thine employ to guide my future days,
-<br>And mine to pay the tribute of my praise.</p>
+<br>And mine to pay the tribute of my praise.
 
-<p>Of _Recollection_ such the pow'r enthron'd
+<br>Of _Recollection_ such the pow'r enthron'd
 <br>In ev'ry breast, and thus her pow'r is own'd.
 <br>The wretch, who dar'd the vengeance of the skies,
 <br>At last awakes in horror and surprize,
@@ -63,11 +63,11 @@ This is the critical introduction. Your critical introduction should be construc
 <br>But O! what peace, what joys are hers t'impart
 <br>To ev'ry holy, ev'ry upright heart!
 <br>Thrice blest the man, who, in her sacred shrine,
-<br>Feels himself shelter'd from the wrath divine!</p>
+<br>Feels himself shelter'd from the wrath divine!
 </pre>
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_61;pwp_62;pwp_63" %}
 
 ## Contextual Accompaniment to "To Maecenas"
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
