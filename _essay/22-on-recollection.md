@@ -9,14 +9,14 @@ This is the critical introduction. Your critical introduction should be construc
 ## ON RECOLLECTION.
 
 <pre>
-MNEME begin. Inspire, ye sacred nine,
+<p>MNEME begin. Inspire, ye sacred nine,
 <br>Your vent'rous _Afric_ in her great design.
 <br>_Mneme_, immortal pow'r, I trace thy spring:
 <br>Assist my strains, while I thy glories sing:
 <br>The acts of long departed years, by thee
 <br>Recover'd, in due order rang'd we see:
 <br>Thy pow'r the long-forgotten calls from night,
-<br>That sweetly plays before the _fancy's_ sight.
+<br>That sweetly plays before the _fancy's_ sight.</p>
 
 <p>_Mneme_ in our nocturnal visions pours
 <br>The ample treasure of her secret stores;
