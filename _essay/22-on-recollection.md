@@ -4,12 +4,17 @@ order: 23
 byline: Percy Gerard
 ---
 ## Critical Introduction to "On Recollection"
-test test
+<br>In her chapter on Phillis Wheatley Peters' memory, Virginia Jackson poses a few questions: "Do Wheatley's poems speak for themselves? What do we mean when we say a poem 'speaks'? Do we mean that the poet expresses herself through the poem? Do we mean that the poem speaks for her? Or do we mean that the poem achieves a voice of its own?" (108). Much criticism on her poem "On Recollection" is driven by these questions of speaker, voice, and subject. The speaker -- whomever it may be -- invokes Mneme, the Muse of memory, to aid her in recollecting "acts of long departed years" and undefined "horrid crime[s]" of the past (_On Recollection_ 5, 27). There is an inclination among scholars to delineate Phillis herself as the speaker and that slavery is the "horrid crime" she is calling on Mneme to retrieve, and these "stakes of who speaks and why" is described by Jackson as "very high indeed" (112).
 
-## ON RECOLLECTION.
+<br>In one exploration of Wheatley Peters' poetry, Devona Mallory intends to analyze the presence of a goddess-mother in three poems, including "On Recollection." The main issue with the article is that the foundation for which her analysis sits is established through popular, imagined narratives about Wheatley Peters. One quote from Mallory exemplifies the kind of presumptuous work that Wheatley Peters is frequently subjected to:
+<blockquote>"Imagine Wheatley at seven years old, standing on a slave block, mostly nude, probably shivering with shock and/or cold. What thoughts were going through her head? How traumatic is must have been to her, losing her mother not to death but to slavery. It must have been another blow to realize she would never see her mother again. Wheatley eventually learns that one way to cope is by composing poetry." (21)</blockquote>
+By basing analysis on assumptions about experiences Wheatley Peters "must have" had, regardless of how true any of the specifics may or may not be, the arguments that follow are fundamentally weakened. Furthermore, there is something intensely voyeuristic about the call to "imagine Wheatley" in such a vulnerable position. She is poised here as an object for study, an oddity through which we can come to understand the extraordinary circumstances that she is in. It gives little room to conceive of her as what she actually is: a person. In so frequently repeating this story of her arrival to Boston -- and certainly by inviting imagination of the scene -- the images conjured are only reinforced as central to her memory.
 
-<pre>
-<br>MNEME begin. Inspire, ye sacred nine,
+<br>Contemplating the potential subjects of "On Recollection," John C. Shields asks "indeed what would an asthmatic, benign teenager closely supervised by her white owners know of 'the worst tortures'?" (47). Like with Mallory, Wheatley Peters is afforded little room for complexity. The question concludes slavery as the only pertinent subject she could be writing about but does so with very little textual evidence and while granting her no authority over her mental and artistic capabilities. Jackson questions Shield's methods of analysis, arguing that he focuses too closely on "giving in to such imaginings" that pervade Wheatley Peters scholarship and "makes the objects of shame and mourning that remain both overdetermined and indeterminate in the poem into one person's historical experience" (118-119).
+
+## On RECOLLECTION.
+
+MNEME begin. Inspire, ye sacred nine,
 <br>Your vent'rous _Afric_ in her great design.
 <br>_Mneme_, immortal pow'r, I trace thy spring:
 <br>Assist my strains, while I thy glories sing:
@@ -64,7 +69,6 @@ test test
 <br>To ev'ry holy, ev'ry upright heart!
 <br>Thrice blest the man, who, in her sacred shrine,
 <br>Feels himself shelter'd from the wrath divine!
-</pre>
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_61;pwp_62;pwp_63" %}
