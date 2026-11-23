@@ -16,6 +16,10 @@ By basing analysis on assumptions about experiences Wheatley Peters "must have" 
 
 <br>To conclude, I would like to return to one of Jackson's questions: "Do Wheatley's poems speak for themselves?" (108). In articles like Mallory's or Shields', there are many assumptions of subject in Wheatley Peters' poems with little strong textual evidence to support it. Shields' idea that Phillis is the central subject of "On Recollection" is only weak insofar as the lack of evidence from the poem he provides. Indeed, the poem itself does contain evidence for this reading, including personal descriptors and the use of pronouns in the opening stanza. The opening lines of the poem start a direct dialogue between Muse and speaker, first with a short statement of "Mneme begin," with a full stop (1). The speaker continues by imploring her and the other "sacred nine" to "Inspire ... / Your vent'rous _Afric_" to recall the memories she looks to recover. The muses are instantly identified as "sacred", and the speaker as "Your vent'rous _Afric_," establishing who is speaking to whom and their standing with one another (2). The speaker then presents what she offers to Mneme: "I trace thy spring" and "I thy glories sing" (3-4). The following line is directed towards Mneme before the speaker's individual position is expanded to include a collective of people: "The acts of long departed years, _by thee_ / Recover'd, in due order rang'd _we see_" (5-6; emphasis added). Who is speaking, who is being spoken to, and who is included as a subject is pivotal to the opening stanza; Wheatley Peters uses every bit of space available to her in the  stanza to establish the characteristics, positions, and motivations of those mentioned in within. With these details in place, she can continue her examination of the nature of memory on a solid foundation. Words like our, her, she, and we are used throughout the following stanzas, but the speaker only returns to the personal "mine" in the fourth. The first line of this stanza states that "Now eighteen years" have passed since the events of her lost memories occurred or began, the age which Wheatley Peters was when she composed the first version of the poem (31). Continuing to reflect on these memories, she "In Recollection see[s] them fresh return, / And sure 'tis _mine_ to be asham'd, and mourn" (35-36; emphasis added). That Wheatley Peters returns to a personal perspective with the use of "mine" in the same stanza containing a direct link to her own life lends authority to the question of whether the speaker is the poet herself.
 
+#### Suggested Reading
+Jeffers, Honor(e)e Fannone. _The Age of Phillis_. Wesleyan University Press, 2020.
+<br>other article
+
 ## On RECOLLECTION.
 
 MNEME {% include essay/feature/aside.html
@@ -84,22 +88,97 @@ MNEME {% include essay/feature/aside.html
    objectid="pwp_61;pwp_62;pwp_63" %}
 
 ## Contextual Accompaniment to "On Recollection"
-This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+The publication of _Poems on Various Subjects_ was certainly a significant feat. Dwight A. McBride describes the achievement of publishing, out of all mediums, "an ample book of more than a hundred pages" as a crucial piece of context in Wheatley Peters' success. That the book was "comparatively expensive" to other mediums and contained "an elaborate frontispiece and widely spaced type ... lent distinction to _Poems on Various Subjects_ as an item of heightened aesthetic value" (373-374). Scholars will often note that Wheatley Peters failed to get a second volume of poetry published in the period between her emancipation and her death around a decade later (although Jeffers manages to find evidence that her husband attempted to get it published after her death (98-99)). The very first page of the Penguin edition of her Complete Writings -- prior to the title page, bibliographic information, and table of contents -- is a short biography that ends equally succinct as it is bleak: "Having failed to find a publisher for her proposed second volume of poems, Phillis Wheatley Peters died in poverty in Boston on December 5, 1784. She was buried in an unmarked grave with her youngest child on December 8" (Carretta). For the new reader, this could be the very first impression of Wheatley Peters' final moments. But "On Recollection" is only one example of her success in the other avenues through which her poems were disseminated.
 
-#### Suggested Reading
-Jeffers, Honor(e)e Fannone. _The Age of Phillis_. Wesleyan University Press, 2020.
-<br>other article?
+<br>"Recollection" was originally published in the March 1772 edition of _London Magazine_, a monthly publication of political writings, current events, and popular discourse. The frontispiece of this volume contains an illustration of _London Magazine_, represented by a winged woman, "Unmasking the Times", who carries with it subjects such as "Popularity," "Corruption," "Bankruptcies," "Fraud," "Bigotry," and "Patrotism." The poem, published under "Political Essays," is prefaced by a letter to the publisher that explains the origins of the poem's composition:
 
-#### Works Cited
+<blockquote>_To the_ AUTHOR _of the_ LONDON MAGAZINE [March 1772].
+<br>Boston, in New-England, Jan. 1, 1772.
+<br>SIR,
+<br>As your Magazine is a proper repository for any thing valuable or curious, I hope you will excuse the communicating the following by one of your subscribers.
+<br>There is in this town a young _Negro woman_, who left _her_ country at ten years of age, and has been in _this_ eight years. She is a compleat sempstress, an accomplished mistress of her pen, and discovers a most surprising genius. Some of her productions have seen the light, among which is a poem on the death of the Rev. Mr. George Whitefield.--The following was occasioned by her being in company with some young ladies of family, when one of them said she did not remember, among all the poetical pieces she had seen, ever to have met with a poem upon RECOLLECTION. The _African_ (so let me call her, for so in fact she is) took the hint, went home to her master's, and soon sent what follows.
+<br>"MADAM,
+<br>Agreeable to your proposing _Recollection_ as a subject proper for me to write upon, I enclose these few thoughts upon it; and, as you was the first person who mentioned it, I thought none more proper to dedicate it to; and, if it meets with your approbation, the poem is honoured, and the authoress satisfied. I am, Madam,
+<br>Your very humble servant, PHILLIS."</blockquote>
+Poems had already been published "as pamphlets or broadsides that had appeared in more than a dozen distinguished periodicals from both sides of the Atlantic" (McBride 375). The composer of the letter presenting "Recollection" mentions that "some of her productions have seen the light, among which is a poem on the death of Rev. Mr. George Whitefield," promoting Wheatley Peters as an established writer to the editor. The following is the original version of the poem as it was published in _London Magazine_.
+
+#### RECOLLECTION.
+_To Miss A--M--, humbly inscribed by the Authoress._
+
+<br>MNEME, begin; inspire, ye sacred Nine!
+<br>Your vent'rous _Afric_ in the deep design.
+<br>Do ye rekindle the coelestial fire,
+<br>Ye god-like powers! the glowing thoughts inspire,
+<br>_Immortal Pow'r!_ I trace thy sacred spring,
+<br>Assist my strains, while I _thy_ glories sing.
+<br>By _thee_, past acts of many thousand years,
+<br>Rang'd in due order, to the mind appears;
+<br>The _long-forgot_ thy gentle hand conveys,
+<br>_Returns_, and soft upon the fancy plays.
+<br>Calm, in the visions of the night he pours
+<br>Th'exhaustless treasures of his secret stores.
+<br>Swift from above he wings his downy flight
+<br>Thro' _Phoebe's_ realm, fair regent of the night.
+<br>Thence to the raptur'd poet gives his aid,
+<br>Dwells in his heart, or hovers round his head;
+<br>To give instruction to the lab'ring mind,
+<br>Diffusing light coelestial and refin'd.
+<br>Still he persues, unweary'd in the race,
+<br>And wraps his sense in the pleasing maze.
+<br>The Heav'nly Phantom _points_ the actions done
+<br>In the past worlds, and tribes beneath the sun.
+<br>He, from his throne in ev'ry human breast,
+<br>Has _vice_ condemn'd, and ev'ry _virtue_ bless'd.
+<br>Sweet are the sounds in which thy words we hear,
+<br>Coelestial musick to the ravish'd ear.
+<br>We hear thy voice, resounding o'er the plains,
+<br>Excelling Maro's sweet Menellian strains.
+<br>But awful _Thou!_ to the perfidious race,
+<br>Who scorn thy warnings, nor the good embrace;
+<br>By _Thee_ unveil'd, the horrid crime appears,
+<br>_Thy_ mightly hand redoubled fury bears;
+<br>The time mis-spent augments their hell of woes,
+<br>While through each breast the dire contagion flows.
+<br>Now turn and leave the rude ungraceful scene,
+<br>And paint fair Virtue in immortal green.
+<br>For ever flourish in the glowing veins,
+<br>For ever flourish in poetick strains.
+<br>Be _Thy_ employ to guide my early days, 
+<br>And _Thine_ the tribute of my youthful lays.
+
+<br>Now *_eighteen years_ their destin'd course have run,
+<br>In due succession, round the central sun;
+<br>How did each folly unregarded pass!
+<br>But sure 'tis graven on eternal brass!
+<br>To _recollect_, inglorious I return;
+<br>'Tis mine past follies and past crimes to mourn.
+<br>The _virtue_, ah! unequal to the _vice_,
+<br>Will scarce afford small reason to rejoice.
+
+<br>Such, RECOLLECTION! is thy pow'r, high-thron'd
+<br>In ev'ry breast of mortals, ever own'd.
+<br>This wretch, who dar'd the vengeance of the skies,
+<br>At last awakes with horror and surprise.
+<br>By _Thee_ alarm'd, he sees impending fate,
+<br>How howls in anguish, and repents too late.
+<br>But oft _thy_ kindness moves with timely fear
+<br>The furious rebel in his mad career.
+<br>Thrice bless'd the man, who in _thy_ sacred shrine
+<br>Improves the REFUGE from the wrath divine.
+
+<br>*Her age.
+
+## Works Cited
 "Artemis." [_Theoi_](https://www.theoi.com/Olympios/Artemis.html). Last Accessed 23 November 2026.
-Jackson, Virginia. _Before Modernism: Inventing American Lyric_. Princeton University Press, 2023.
+<br>Jackson, Virginia. _Before Modernism: Inventing American Lyric_. Princeton University Press, 2023.
 <br>Jeffers, Honor(e)e Fannone. _The Age of Phillis_. Wesleyan University Press. 2020. [_ProQuest Ebook Central_](https://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=6202670).
+<br>_The London magazine. Or, Gentleman's monthly intelligencer._ _HathiTrust_. [full volume](https://hdl.handle.net/2027/mdp.39015021278612), [frontispiece](https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bseq=6%3Bownerid=13510798882341538-12), [March 1772 title page](https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bseq=125%3Bownerid=13510798882341538-131), ["On Recollection"](https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bseq=167%3Bownerid=13510798882341538-175). Last Accessed 23 November 2026.
 <br>Mallory, Devona. "I Remember Mama: Honoring the Goddess-Mother While Denouncing the Slaveowner-God in Phillis Wheatley's Poetry." _New Essays on Phillis Wheatley_, edited by <br>John C. Shields and Eric D. Lamore, University of Tennessee Press, 2011. [_ProQuest Ebook Central_](https://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=735428).
 <br>McBride, Dwight A. "A Rising Tide Lifts All Boats: Phillis Wheatley's _Poems on Various Subjects_ (1773)." _Social Research: An International Quarterly", vol. 89, no. 2, 2022, pp. 369-395. [https://doi.org/10.1353/sor.2022.0026](https://doi.org/10.1353/sor.2022.0026).
 <br>"Mnemosyne." [_Theoi_](https://www.theoi.com/Titan/TitanisMnemosyne.html). Last Accessed 23 November 2026.
 <br>Shields, John C. _Phillis Wheatley and the Romantics_. 1st ed., University of Tennessee Press, 2010. [_EBSCOhost_](research.ebsco.com/plink/00b97b60-e14b-36af-865d-3127617e05d6).
 <br>Wheatley Peters, Phillis. _Complete Writings_, edited by Vincent Carretta, Penguin, 2001.
 <br>"Wormwood." [_Oxford English Dictionary_](https://www.oed.com/dictionary/wormwood_n?tab=meaning_and_use&tl=true). Last Accessed 23 November 2026.
-to be added: sources for my contextual
+to be added: other london magazine source
 
 ---
