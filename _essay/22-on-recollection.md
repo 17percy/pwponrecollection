@@ -100,6 +100,6 @@ Jackson, Virginia. _Before Modernism: Inventing American Lyric_. Princeton Unive
 <br>Shields, John C. _Phillis Wheatley and the Romantics_. 1st ed., University of Tennessee Press, 2010. [_EBSCOhost_](research.ebsco.com/plink/00b97b60-e14b-36af-865d-3127617e05d6).
 <br>Wheatley Peters, Phillis. _Complete Writings_, edited by Vincent Carretta, Penguin, 2001.
 <br>"Wormwood." [_Oxford English Dictionary_](https://www.oed.com/dictionary/wormwood_n?tab=meaning_and_use&tl=true). Last Accessed 23 November 2026.
-to be added: sources for my contextual stuff
+to be added: sources for my contextual
 
 ---
