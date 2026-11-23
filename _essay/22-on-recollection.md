@@ -92,7 +92,8 @@ The publication of _Poems on Various Subjects_ was certainly a significant feat.
 
 <br>"Recollection" was originally published in the March 1772 edition of _London Magazine_, a monthly publication of political writings, current events, and popular discourse. The frontispiece of this volume contains an illustration of _London Magazine_, represented by a winged woman, "Unmasking the Times", who carries with it subjects such as "Popularity," "Corruption," "Bankruptcies," "Fraud," "Bigotry," and "Patrotism." The poem, published under "Political Essays," is prefaced by a letter to the publisher that explains the origins of the poem's composition:
 
-<blockquote> _To the_ AUTHOR _of the_ LONDON MAGAZINE [March 1772].
+<blockquote>
+<i>To the</i> AUTHOR <i>of the</i> LONDON MAGAZINE [March 1772].
 
 <br>Boston, in New-England, Jan. 1, 1772.
 
