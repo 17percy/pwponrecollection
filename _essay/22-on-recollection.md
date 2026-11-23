@@ -93,15 +93,22 @@ The publication of _Poems on Various Subjects_ was certainly a significant feat.
 <br>"Recollection" was originally published in the March 1772 edition of _London Magazine_, a monthly publication of political writings, current events, and popular discourse. The frontispiece of this volume contains an illustration of _London Magazine_, represented by a winged woman, "Unmasking the Times", who carries with it subjects such as "Popularity," "Corruption," "Bankruptcies," "Fraud," "Bigotry," and "Patrotism." The poem, published under "Political Essays," is prefaced by a letter to the magazine that explains the origins of the poem's composition:
 
 <br> _To the_ AUTHOR _of the_ LONDON MAGAZINE [March 1772].
+
 <br>Boston, in New-England, Jan. 1, 1772.
+
 <br>SIR,
+
 <br>As your Magazine is a proper repository for any thing valuable or curious, I hope you will excuse the communicating the following by one of your subscribers.
+
 <br>There is in this town a young _Negro woman_, who left _her_ country at ten years of age, and has been in _this_ eight years. She is a compleat sempstress, an accomplished mistress of her pen, and discovers a most surprising genius. Some of her productions have seen the light, among which is a poem on the death of the Rev. Mr. George Whitefield.--The following was occasioned by her being in company with some young ladies of family, when one of them said she did not remember, among all the poetical pieces she had seen, ever to have met with a poem upon RECOLLECTION. The _African_ (so let me call her, for so in fact she is) took the hint, went home to her master's, and soon sent what follows.
+
 <br>"MADAM,
+
 <br>Agreeable to your proposing _Recollection_ as a subject proper for me to write upon, I enclose these few thoughts upon it; and, as you was the first person who mentioned it, I thought none more proper to dedicate it to; and, if it meets with your approbation, the poem is honoured, and the authoress satisfied. I am, Madam,
+
 <br>Your very humble servant, PHILLIS."
 
-<br>Poems had already been published "as pamphlets or broadsides that had appeared in more than a dozen distinguished periodicals from both sides of the Atlantic" (McBride 375). The composer of the letter presenting "Recollection" mentions that "some of her productions have seen the light, among which is a poem on the death of Rev. Mr. George Whitefield," promoting Wheatley Peters as an established writer. The following is the original version of the poem as it was published in _London Magazine_.
+<br>It was known that prior to _Poems_ Wheatley Peters' work had already been published "as pamphlets or broadsides that had appeared in more than a dozen distinguished periodicals from both sides of the Atlantic" (McBride 375). The composer of the letter presenting "Recollection" mentions that "some of her productions have seen the light, among which is a poem on the death of Rev. Mr. George Whitefield," promoting her as an established writer. The following is the original version of the poem as it was published in _London Magazine_.
 
 #### RECOLLECTION.
 _To Miss A--M--, humbly inscribed by the Authoress._
@@ -174,12 +181,11 @@ _To Miss A--M--, humbly inscribed by the Authoress._
 <br>Jackson, Virginia. _Before Modernism: Inventing American Lyric_. Princeton University Press, 2023.
 <br>Jeffers, Honor(e)e Fannone. _The Age of Phillis_. Wesleyan University Press. 2020. [_ProQuest Ebook Central_](https://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=6202670).
 <br>_The London magazine. Or, Gentleman's monthly intelligencer._ _HathiTrust_. [full volume](https://hdl.handle.net/2027/mdp.39015021278612), [frontispiece](https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bseq=6%3Bownerid=13510798882341538-12), [March 1772 title page](https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bseq=125%3Bownerid=13510798882341538-131), ["On Recollection"](https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bseq=167%3Bownerid=13510798882341538-175). Last Accessed 23 November 2026.
-<br>Mallory, Devona. "I Remember Mama: Honoring the Goddess-Mother While Denouncing the Slaveowner-God in Phillis Wheatley's Poetry." _New Essays on Phillis Wheatley_, edited by <br>John C. Shields and Eric D. Lamore, University of Tennessee Press, 2011. [_ProQuest Ebook Central_](https://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=735428).
+<br>Mallory, Devona. "I Remember Mama: Honoring the Goddess-Mother While Denouncing the Slaveowner-God in Phillis Wheatley's Poetry." _New Essays on Phillis Wheatley_, edited by John C. Shields and Eric D. Lamore, University of Tennessee Press, 2011. [_ProQuest Ebook Central_](https://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=735428).
 <br>McBride, Dwight A. "A Rising Tide Lifts All Boats: Phillis Wheatley's _Poems on Various Subjects_ (1773)." _Social Research: An International Quarterly_, vol. 89, no. 2, 2022, pp. 369-395. [https://doi.org/10.1353/sor.2022.0026](https://doi.org/10.1353/sor.2022.0026).
 <br>"Mnemosyne." [_Theoi_](https://www.theoi.com/Titan/TitanisMnemosyne.html). Last Accessed 23 November 2026.
 <br>Shields, John C. _Phillis Wheatley and the Romantics_. 1st ed., University of Tennessee Press, 2010. [_EBSCOhost_](research.ebsco.com/plink/00b97b60-e14b-36af-865d-3127617e05d6).
 <br>Wheatley Peters, Phillis. _Complete Writings_, edited by Vincent Carretta, Penguin, 2001.
 <br>"Wormwood." [_Oxford English Dictionary_](https://www.oed.com/dictionary/wormwood_n?tab=meaning_and_use&tl=true). Last Accessed 23 November 2026.
-to be added: other london magazine source
 
 ---
