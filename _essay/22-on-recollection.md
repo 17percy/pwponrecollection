@@ -35,7 +35,7 @@ MNEME {% include essay/feature/aside.html
    text="Artemis, Greek Goddess of hunting and wilderness and the twin sister of Apollo, God of the sun (among other things). Artemis does not always hold an association with the moon, but the use of Phoebe, equivalent to Apollo's alternative name Phoebus, points to this connection (Theoi)." %} realms, fair regent of the night;
 <br>And, in her pomp of images display'd,
 <br>To the high-raptur'd poet gives her aid,{% include essay/feature/aside.html
-   text="In the original publication, Wheatley Peters only names Mneme in the poem's first line, instead using non-specific, masculine language to describe the powers that Mneme employs in this version. This line originally reads "Thence to the raptur'd poet gives his aid," specifically meaning that the unnamed power helps the poet. Here, "her" is much more ambiguous; "her aid" could refer to Mneme (the aid of Mneme) or the poet (Mneme gives aid to the poet). Both power and subject are feminized, inclining the reader to view Wheatley Peters as the poet in question." %}
+   text="In the original publication, Wheatley Peters only names Mneme in the poem's first line, instead using non-specific, masculine language to describe the powers that Mneme employs in this version. This line originally reads 'Thence to the raptur'd poet gives his aid,' specifically meaning that the unnamed power helps the poet. Here, 'her' is much more ambiguous; 'her aid' could refer to Mneme (the aid of Mneme) or the poet (Mneme gives aid to the poet). Both power and subject are feminized, inclining the reader to view Wheatley Peters as the poet in question." %}
 <br>Through the unbounded regions of the mind,
 <br>Diffusing light celestial and refin'd.
 <br>The heav'nly _phantom_ paints the actions done
@@ -52,7 +52,7 @@ MNEME {% include essay/feature/aside.html
 <br>Who scorns her warnings and despise her grace?
 <br>By her unveil'd each horrid crime appears,
 <br>Her awful hand a cup of wormwood {% include essay/feature/aside.html
-   text=""_figurative_. An emblem or type of what is bitter and grievous to the soul." (OED)" %} bears.
+   text="'_figurative_. An emblem or type of what is bitter and grievous to the soul.' (OED)" %} bears.
 <br>Days, years mispent, O what a hell of woe!
 <br>Hers the worst tortures that our souls can know.
 
