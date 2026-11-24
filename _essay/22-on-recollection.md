@@ -7,8 +7,8 @@ byline: Percy Gerard
 In her book on American lyric, Virginia Jackson contemplates Phillis Wheatley Peters' memory by posing a few questions: "Do Wheatley's poems speak for themselves? What do we mean when we say a poem 'speaks'? Do we mean that the poet expresses herself through the poem? Do we mean that the poem speaks for her? Or do we mean that the poem achieves a voice of its own?" (108). There is plenty of criticism on Wheatley Peters' poem "On Recollection" that is driven by these questions of speaker, voice, and subject. The speaker -- whomever it may be -- invokes Mneme, the Muse of memory, to aid her in recollecting "acts of long departed years" and undefined "horrid crime[s]" of the past (5, 27). There is an inclination among scholars to delineate Phillis herself as the speaker and that slavery is the "horrid crime" she is calling on Mneme to retrieve, and these "stakes of who speaks and why" is described by Jackson as "very high indeed" (112).
 
 <br>In one exploration of Wheatley Peters' poetry, Devona Mallory intends to analyze the presence of a goddess-mother in three poems, including "On Recollection." The main issue with the article is that the foundation for which her analysis sits is established through popular, imagined narratives about Wheatley Peters. One quote from Mallory exemplifies the kind of presumptuous work that Wheatley Peters is frequently subjected to:
-<blockquote>"Imagine Wheatley at seven years old, standing on a slave block, mostly nude, probably shivering with shock and/or cold. What thoughts were going through her head? How traumatic is must have been to her, losing her mother not to death but to slavery. It must have been another blow to realize she would never see her mother again. Wheatley eventually learns that one way to cope is by composing poetry." (21)</blockquote>
-By basing analysis on assumptions about experiences Wheatley Peters "must have" had, regardless of how true any of the specifics may or may not be, the arguments that follow are fundamentally weakened. Furthermore, there is something intensely voyeuristic about the call to "imagine Wheatley" in such a vulnerable position. She is poised here as an object for study, an oddity through which we can come to understand the extraordinary circumstances that she is in. It gives little room to conceive of her with any meaningful focus on her individual personhood. In so frequently repeating this story of her arrival to Boston -- and certainly by inviting imagination of the scene -- the images conjured are only reinforced as central to her memory.
+<blockquote>Imagine Wheatley at seven years old, standing on a slave block, mostly nude, probably shivering with shock and/or cold. What thoughts were going through her head? How traumatic is must have been to her, losing her mother not to death but to slavery. It must have been another blow to realize she would never see her mother again. Wheatley eventually learns that one way to cope is by composing poetry. (21)</blockquote>
+By basing analysis on assumptions about experiences Wheatley Peters "must have" had, regardless of how true any of the specifics could be, the arguments that follow are fundamentally weakened. Furthermore, there is something intensely voyeuristic about the call to "imagine Wheatley" in such a vulnerable position. She is poised here as an object for study, an oddity through which we can come to understand the extraordinary circumstances that she is in. It gives little room to conceive of her with any meaningful focus on her individual personhood. In so frequently repeating this story of her arrival to Boston -- and certainly by inviting imagination of the scene -- the images conjured are only reinforced as central to her memory.
 
 <br>Contemplating the potential subjects of "On Recollection," John C. Shields asks "indeed what would an asthmatic, benign teenager closely supervised by her white owners know of 'the worst tortures'?" (47). Like with Mallory, Wheatley Peters is afforded little room for complexity. The question concludes that slavery is the only pertinent subject she could be writing about but Shields does so with very little textual evidence and while granting her no authority over her mental and artistic capabilities. Jackson questions Shield's methods of analysis, arguing that he focuses too closely on "giving in to such imaginings" that pervade Wheatley Peters scholarship and "makes the objects of shame and mourning that remain both overdetermined and indeterminate in the poem into one person's historical experience" (118-119). Once again, Wheatley Peters is meant to be the figurehead for an imagined, collective slave experience who, despite the circumstances, becomes exceptional through her poetic abilities.
 
@@ -23,7 +23,7 @@ Jeffers, Honor(e)e Fannone. _The Age of Phillis_. Wesleyan University Press, 202
 ## On RECOLLECTION.
 
 MNEME {% include essay/feature/aside.html
-   text="In Greek Mythology, Mnemosyne, shortened by Wheatley Peters to Mneme, is the Muse of memory and language. She is also considered the mother of the Muses (Theoi)." %} begin. Inspire, ye sacred nine,
+   text="In Greek mythology, Mnemosyne, shortened by Wheatley Peters to Mneme, is the Muse of memory and language. She is also considered the mother of the Muses (Theoi)." %} begin. Inspire, ye sacred nine,
 <br>Your vent'rous _Afric_ in her great design.
 <br>_Mneme_, immortal pow'r, I trace thy spring:
 <br>Assist my strains, while I thy glories sing:
@@ -39,7 +39,7 @@ MNEME {% include essay/feature/aside.html
    text="Artemis, Greek Goddess of hunting and wilderness and the twin sister of Apollo, God of the sun (among other things). Artemis does not always hold an association with the moon, but the use of Phoebe, equivalent to Apollo's alternative name Phoebus, points to this connection (Theoi)." %} realms, fair regent of the night;
 <br>And, in her pomp of images display'd,
 <br>To the high-raptur'd poet gives her aid,{% include essay/feature/aside.html
-   text="In the original publication, Wheatley Peters only names Mneme in the poem's first line, instead using non-specific, masculine language to describe the powers that Mneme employs in this version. This line originally reads 'Thence to the raptur'd poet gives his aid,' specifically meaning that the unnamed power helps the poet. Here, 'her' is much more ambiguous; 'her aid' could refer to Mneme (the aid of Mneme) or the poet (Mneme gives aid to the poet). Both power and subject are feminized, inclining the reader to view Wheatley Peters as the poet in question." %}
+   text="In the original publication, Wheatley Peters only names Mneme in the poem's first line, instead using non-specific, masculine language to describe the powers that Mneme employs in this version. This line originally reads 'Thence to the raptur'd poet gives his aid,' meaning that the unnamed power helps the poet. Here, 'her' is much more ambiguous, either referring to Mneme (the aid of Mneme) or the poet (Mneme gives aid to the poet). Both power and subject are feminized, inclining the reader to view Wheatley Peters as the poet in question." %}
 <br>Through the unbounded regions of the mind,
 <br>Diffusing light celestial and refin'd.
 <br>The heav'nly _phantom_ paints the actions done
@@ -50,7 +50,7 @@ MNEME {% include essay/feature/aside.html
 <br>How sweet the sound when we her plaudit hear?
 <br>Sweeter than music to the ravish'd ear,
 <br>Sweeter than _Maro's_ {% include essay/feature/aside.html
-   text="Virgil (Publius Vergilius Maro), best known as the composer of _The Aeneid_." %} entertaining strains
+   text="Virgil (Publius Vergilius Maro), author of _The Aeneid_." %} entertaining strains
 <br>Resounding through the groves, and hills, and plains.
 <br>But how is _Mneme_ dreaded by the race,
 <br>Who scorns her warnings and despise her grace?
@@ -174,9 +174,7 @@ _To Miss A--M--, humbly inscribed by the Authoress._
 <br>Thrice bless'd the man, who in _thy_ sacred shrine
 <br>Improves the REFUGE from the wrath divine.
 
-<br>*Her age.
-
-{% include essay/feature/image-gallery.html objectid="https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bui=embed" alt="Scan of the frontispiece in the 1772 volume of _London Magazine_" caption="Frontispiece" width="50" %} {% include essay/feature/image-gallery.html objectid="https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bui=embed" alt="Scan of the title page for March 1772 in _London Magazine_" caption="Title page" width="50" %} {% include essay/feature/image-gallery.html objectid="https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bui=embed" alt="Scan of 'Recollection' in _London Magazine_" caption="Recollection" width="50" %} 
+<br>*Her age. 
 
 ## Works Cited
 "Artemis." [_Theoi_](https://www.theoi.com/Olympios/Artemis.html). Last Accessed 23 November 2026.
