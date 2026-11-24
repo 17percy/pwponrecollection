@@ -176,6 +176,8 @@ _To Miss A--M--, humbly inscribed by the Authoress._
 
 <br>*Her age.
 
+{% include essay/feature/image-gallery.html objectid="https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bui=embed" alt="Scan of the frontispiece in the 1772 volume of _London Magazine_" caption="Frontispiece" width="50" %} {% include essay/feature/image-gallery.html objectid="https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bui=embed" alt="Scan of the title page for March 1772 in _London Magazine_" caption="Title page" width="50" %} {% include essay/feature/image-gallery.html objectid="https://hdl.handle.net/2027/mdp.39015021278612?urlappend=%3Bui=embed" alt="Scan of 'Recollection' in _London Magazine_" caption="Recollection" width="50" %} 
+
 ## Works Cited
 "Artemis." [_Theoi_](https://www.theoi.com/Olympios/Artemis.html). Last Accessed 23 November 2026.
 <br>Jackson, Virginia. _Before Modernism: Inventing American Lyric_. Princeton University Press, 2023.
