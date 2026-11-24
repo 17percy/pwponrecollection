@@ -36,7 +36,7 @@ MNEME {% include essay/feature/aside.html
 <br>The ample treasure of her secret stores;
 <br>Swift from above she wings her silent flight
 <br>Through _Phoebe's_ {% include essay/feature/aside.html
-   text="Artemis, Greek Goddess of hunting and wilderness and the twin sister of Apollo, God of the sun (among other things). Artemis does not always hold an association with the moon, but the use of Phoebe, equivalent to Apollo's alternative name Phoebus, points to this connection (Theoi)." %} realms, fair regent of the night;
+   text="Artemis; her associations with the moon come explicitly when she is represented as the sister to Apollo (Phoebus) (Theoi)." %} realms, fair regent of the night;
 <br>And, in her pomp of images display'd,
 <br>To the high-raptur'd poet gives her aid,{% include essay/feature/aside.html
    text="In the original publication, Wheatley Peters only names Mneme in the poem's first line, instead using non-specific, masculine language to describe the powers that Mneme employs in this version. This line originally reads 'Thence to the raptur'd poet gives his aid,' meaning that the unnamed power helps the poet. Here, 'her' is much more ambiguous, either referring to Mneme (the aid of Mneme) or the poet (Mneme gives aid to the poet). Both power and subject are feminized, inclining the reader to view Wheatley Peters as the poet in question." %}
