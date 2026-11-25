@@ -32,7 +32,7 @@ MNEME {% include essay/feature/aside.html
 <br>Thy pow'r the long-forgotten calls from night,
 <br>That sweetly plays before the _fancy's_ sight.
 
-<br>&nbsp;_Mneme_ in our nocturnal visions pours
+<br>&nbsp;&nbsp;_Mneme_ in our nocturnal visions pours
 <br>The ample treasure of her secret stores;
 <br>Swift from above she wings her silent flight
 <br>Through _Phoebe's_ realms, fair regent of the night;
@@ -44,7 +44,7 @@ MNEME {% include essay/feature/aside.html
 <br>The heav'nly _phantom_ paints the actions done
 <br>By ev'ry tribe beneath the rolling sun.
 
-<br>&nbsp;_Mneme_, enthron'd within the human breast,
+<br>&nbsp;&nbsp;_Mneme_, enthron'd within the human breast,
 <br>Has vice condemn'd, and ev'ry virtue blest.
 <br>How sweet the sound when we her plaudit hear?
 <br>Sweeter than music to the ravish'd ear,
@@ -59,7 +59,7 @@ MNEME {% include essay/feature/aside.html
 <br>Days, years mispent, O what a hell of woe!
 <br>Hers the worst tortures that our souls can know.
 
-<br>&nbsp;Now eighteen years {% include essay/feature/aside.html
+<br>&nbsp;&nbsp;Now eighteen years {% include essay/feature/aside.html
    text="Note from original publication: Her age." %} their destin'd course have run,
 <br>In fast succession round the central sun.
 <br>How did the follies of that period pass
@@ -67,12 +67,12 @@ MNEME {% include essay/feature/aside.html
 <br>In Recollection see them fresh return,
 <br>And sure 'tis mine to be asham'd, and mourn.
 
-<br>&nbsp;O _Virtue_, smiling in immortal green,
+<br>&nbsp;&nbsp;O _Virtue_, smiling in immortal green,
 <br>Do thou exert thy pow'r, and change the scene;
 <br>Be thine employ to guide my future days,
 <br>And mine to pay the tribute of my praise.
 
-<br>&nbsp;Of _Recollection_ such the pow'r enthron'd
+<br>&nbsp;&nbsp;Of _Recollection_ such the pow'r enthron'd
 <br>In ev'ry breast, and thus her pow'r is own'd.
 <br>The wretch, who dar'd the vengeance of the skies,
 <br>At last awakes in horror and surprize,
@@ -93,21 +93,21 @@ The publication of _Poems on Various Subjects_ was certainly a significant feat.
 
 <br> _To the_ AUTHOR _of the_ LONDON MAGAZINE [March 1772].
 
-<br>&nbsp;Boston, in New-England, Jan. 1, 1772.
+<br>&nbsp;&nbsp;Boston, in New-England, Jan. 1, 1772.
 
-<br>&nbsp;SIR,
+<br>&nbsp;&nbsp;SIR,
 
 <br>As your Magazine is a proper repository for any thing valuable or curious, I hope you will excuse the communicating the following by one of your subscribers.
 
-<br>&nbsp;There is in this town a young _Negro woman_, who left _her_ country at ten years of age, and has been in _this_ eight years. She is a compleat sempstress, an accomplished mistress of her pen, and discovers a most surprising genius. Some of her productions have seen the light, among which is a poem on the death of the Rev. Mr. George Whitefield.--The following was occasioned by her being in company with some young ladies of family, when one of them said she did not remember, among all the poetical pieces she had seen, ever to have met with a poem upon RECOLLECTION. The _African_ (so let me call her, for so in fact she is) took the hint, went home to her master's, and soon sent what follows.
+<br>&nbsp;&nbsp;There is in this town a young _Negro woman_, who left _her_ country at ten years of age, and has been in _this_ eight years. She is a compleat sempstress, an accomplished mistress of her pen, and discovers a most surprising genius. Some of her productions have seen the light, among which is a poem on the death of the Rev. Mr. George Whitefield.--The following was occasioned by her being in company with some young ladies of family, when one of them said she did not remember, among all the poetical pieces she had seen, ever to have met with a poem upon RECOLLECTION. The _African_ (so let me call her, for so in fact she is) took the hint, went home to her master's, and soon sent what follows.
 
-<br>&nbsp;"MADAM,
+<br>&nbsp;&nbsp;"MADAM,
 
-<br>&nbsp;Agreeable to your proposing _Recollection_ as a subject proper for me to write upon, I enclose these few thoughts upon it; and, as you was the first person who mentioned it, I thought none more proper to dedicate it to; and, if it meets with your approbation, the poem is honoured, and the authoress satisfied. I am, Madam,
+<br>&nbsp;&nbsp;Agreeable to your proposing _Recollection_ as a subject proper for me to write upon, I enclose these few thoughts upon it; and, as you was the first person who mentioned it, I thought none more proper to dedicate it to; and, if it meets with your approbation, the poem is honoured, and the authoress satisfied. I am, Madam,
 
-<br>&nbsp;Your very humble servant,
+<br>&nbsp;&nbsp;&nbsp;Your very humble servant,
 
-<br>&nbsp;&nbsp;PHILLIS."
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIS."
 
 <br>It was known that prior to _Poems_ Wheatley Peters' work had already been published "as pamphlets or broadsides that had appeared in more than a dozen distinguished periodicals from both sides of the Atlantic" (McBride 375). The composer of the letter presenting "Recollection" mentions that "some of her productions have seen the light, among which is a poem on the death of Rev. Mr. George Whitefield," promoting her as an established writer. The following is the original version of the poem as it was published in _London Magazine_.
 
@@ -155,7 +155,7 @@ _To Miss A--M--, humbly inscribed by the Authoress._
 <br>Be _Thy_ employ to guide my early days, 
 <br>And _Thine_ the tribute of my youthful lays.
 
-<br>&nbsp;Now *_eighteen years_ their destin'd course have run,
+<br>&nbsp;&nbsp;Now *_eighteen years_ their destin'd course have run,
 <br>In due succession, round the central sun;
 <br>How did each folly unregarded pass!
 <br>But sure 'tis graven on eternal brass!
@@ -164,7 +164,7 @@ _To Miss A--M--, humbly inscribed by the Authoress._
 <br>The _virtue_, ah! unequal to the _vice_,
 <br>Will scarce afford small reason to rejoice.
 
-<br>&nbsp;Such, RECOLLECTION! is thy pow'r, high-thron'd
+<br>&nbsp;&nbsp;Such, RECOLLECTION! is thy pow'r, high-thron'd
 <br>In ev'ry breast of mortals, ever own'd.
 <br>This wretch, who dar'd the vengeance of the skies,
 <br>At last awakes with horror and surprise.
